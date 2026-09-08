@@ -13,7 +13,7 @@ ACARS-Anwendung für die Virtual Airline **GAB AIR**. Verbindet Microsoft Flight
 - **Navigraph-Charts:** Eingebettetes Panel für Karten.
 - **VATSIM/IVAO Flight Plan Prefile:** Vorausgefüllter Flightplan-Link zu my.vatsim.net bzw. fpl.ivao.aero (Callsign, Route, Aircraft, Cruise-Alt, Speed, Remarks) direkt aus der App heraus.
 - **Live D-ATIS:** Digital-ATIS-Abruf für VATSIM und IVAO.
-- **Post-Flight-Analyse:** Präzise Auswertung von Landing Rate, G-Force, TDZ (Touchdown Zone in Metern), TCH (Threshold Crossing Height) und Centerline-Deviation. Takeoff- und Landing-Daten lassen sich im Report nachträglich korrigieren.
+- **Post-Flight-Analyse:** Präzise Auswertung von Flugzeit, Fuel Burn, Landing Rate, G-Force, TDZ (Touchdown Zone in Metern), TCH (Threshold Crossing Height) und Centerline-Deviation. Zusätzlich Efficiency-Rating (Ist-Route vs. SimBrief-Route), Strafpunkte und ein Incident-Report mit allen Vorkommnissen (Overspeed, Taxi-Speed, Flap/Gear-Limits, G-Load, Cabin Altitude, Unstable Approach).
 - **Stabilized-Approach & Ausweichlandungen:** Warnung bei unstabilem Anflug. Greift dank einer integrierten Offline-Datenbank (60.000+ Flughäfen) immer auf echte MSL-Elevation zurück, selbst bei spontanen Ausweichlandungen (Diversions).
 - **In-Game Approach Overlay:** Separates, transparentes Always-on-Top-Fenster mit Live-Status "STABLE / UNSTABLE APPROACH" inkl. Gründen – ideal für Stream-Overlays. Zusätzlich gibt es echte Audio-Callouts ("Stable"/"Unstable").
 - **Addon Support:** LVar-Unterstützung (Flap Surface, Flap Lever) für komplexe Addon-Flieger im MSFS (z.B. FSLabs A321).
